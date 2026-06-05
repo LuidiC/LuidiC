@@ -124,7 +124,7 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
   </picture>
 </div>
 
