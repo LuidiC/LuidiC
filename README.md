@@ -108,14 +108,16 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuidiC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" />
+![](https://github-readme-stats.vercel.app/api?username=LuidiC&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiC&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuidiC&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=8892b0&sideLabels=8892b0&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda" />
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=LuidiC&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=8892b0&sideLabels=8892b0&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda)](https://github.com/LuidiC)
+
 </div>
 
 <div align="center">
