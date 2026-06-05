@@ -7,8 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luidicadetesilva/)
-[![E-mail](https://img.shields.io/badge/E--mail-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda)](luidisilva1706@gmail.com)
-
+[![E-mail](https://img.shields.io/badge/E--mail-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:luidisilva1706@gmail.com)
 </div>
 
 ---
@@ -104,6 +103,7 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,6 +116,14 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuidiC&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=8892b0&sideLabels=8892b0&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
