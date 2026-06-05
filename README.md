@@ -121,7 +121,11 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuidiC&bg_color=0d1117&color=64ffda&line=64ffda&point=64ffda&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=2" />
+  </picture>
 </div>
 
 ---
