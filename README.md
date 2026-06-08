@@ -108,23 +108,23 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=LuidiC&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuidiC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiC&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiC&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=LuidiC&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=8892b0&sideLabels=8892b0&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda)](https://github.com/LuidiC)
+<img width="60%" src="https://streak-stats.demolab.com?user=LuidiC&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=64FFDA&sideNums=64FFDA" />
 
 </div>
+
+<br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=2" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg" />
   </picture>
 </div>
 
