@@ -82,13 +82,6 @@ Tenho histórico em **Business Intelligence** e análise de dados, o que me dá 
 
 ## 📌 Projetos em Destaque
 
-### ⚙️ [Automação & Desenvolvimento — Sicoob Credipel](https://github.com/LuidiC)
-> Soluções desenvolvidas para automação de processos internos da cooperativa, integrando Python, APIs e ferramentas Microsoft para reduzir retrabalho e aumentar a eficiência operacional.
-
-**Stack:** `Python` · `Power Automate` · `SQL` · `APIs REST`
-
----
-
 ### 🏗️ [Projetos Acadêmicos — PUC Minas](https://github.com/LuidiC)
 > Sistemas desenvolvidos colaborativamente no curso de Engenharia de Software, com aplicação de metodologias ágeis, engenharia de requisitos, modelagem de sistemas e desenvolvimento em equipe.
 
