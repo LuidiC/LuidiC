@@ -120,7 +120,7 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 ## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> GitHub Stats <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=LuidiC&color=64ffda&style=flat-square&label=Profile%20views"/> :
 
 <div align="center" style="margin-bottom:100px">
-  <img width="55%" align="center" src="https://streak-stats.demolab.com?user=LuidiC&theme=transparent&mode=weekly&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda" />
+  <img width="55%" align="center" src="https://streak-stats.demolab.com?user=LuidiC&theme=transparent&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda&v=2" />
 </div>
 
 
