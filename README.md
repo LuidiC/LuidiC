@@ -5,9 +5,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luidicadetesilva/)
-[![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/LuidiC)
 [![E-mail](https://img.shields.io/badge/E--mail-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:luidisilva1706@gmail.com)
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=LuidiC&style=for-the-badge&color=0a192f&label=VISITANTES" />
 
 </div>
 
