@@ -120,9 +120,18 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 ## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> GitHub Stats <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=LuidiC&color=64ffda&style=flat-square&label=Profile%20views"/> :
 
 <div align="center" style="margin-bottom:100px">
-  <img width="55%" align="center" src="https://streak-stats.demolab.com?user=LuidiC&theme=transparent&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda&v=2" />
-</div>
 
+  <img width="55%" align="center" src="https://streak-stats.demolab.com?user=LuidiC&theme=transparent&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b0&currStreakNum=64ffda&sideNums=64ffda&v=3" />
+
+  <br><br>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=4" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/LuidiC/LuidiC/output/github-snake.svg?v=4" />
+</picture>
+
+</div>
 
 ---
 
