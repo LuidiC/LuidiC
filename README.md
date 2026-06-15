@@ -93,7 +93,7 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 
 ---
 
-### 🏗️ [Projetos Acadêmicos — PUC Minas](https://github.com/LuidiC)
+### 🏗️ [Projetos Acadêmicos — PUC Minas]
 
 > Sistemas desenvolvidos em equipe durante o curso de Engenharia de Software, com aplicação de metodologias ágeis, engenharia de requisitos, modelagem UML e desenvolvimento orientado à resolução de problemas reais.
 
@@ -104,7 +104,7 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 
 ---
 
-### 🐍 [Estudos em Python & Ecossistema de Dados](https://github.com/LuidiC)
+### 🐍 [Estudos em Python & Ecossistema de Dados]
 
 > Repositório de aprofundamento técnico em Python, cobrindo fundamentos da linguagem, lógica de programação, manipulação de dados, automação de tarefas e construção de aplicações com APIs.
 
