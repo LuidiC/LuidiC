@@ -49,7 +49,7 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 ## 💼 Experiência Profissional
 
 ### Analista de Desenvolvimento de Sistemas · Sicoob Credipel  
-**2024 - Atual**
+**2026 - Atual**
 
 - Atuação na estruturação e evolução da área de desenvolvimento da cooperativa
 - Desenvolvimento de soluções de automação de processos internos com **Python** e **Power Automate**
@@ -57,7 +57,7 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 - Apoio à transformação de processos operacionais em soluções digitais escaláveis
 
 ### Analista de Business Intelligence Jr. · Sicoob Credipel  
-**2023 - 2024**
+**2024 - 2026**
 
 - Construção de dashboards estratégicos e relatórios gerenciais em **Power BI**
 - Modelagem, tratamento e análise de dados para suporte à tomada de decisão
