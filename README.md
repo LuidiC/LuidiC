@@ -82,36 +82,42 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 
 ## 📌 Projetos em Destaque
 
-### ⚙️ Automação de Processos — Sicoob Credipel
+### 🛒 [CommerceIQ — Plataforma de Analytics para E-commerce](https://github.com/LuidiC/commerce-iq)
 
-> Soluções voltadas à automação de processos internos da cooperativa, com foco em redução de tarefas manuais, padronização operacional e aumento de eficiência. Os projetos envolvem integração entre sistemas legados, planilhas, APIs e ferramentas Microsoft.
+> Plataforma de analytics para e-commerce desenvolvida com abordagem **SQL-first**, utilizando dados reais do conjunto público **Olist** para exploração, transformação e análise de dados de vendas.
+>
+> A solução integra **PostgreSQL**, **Python**, **FastAPI** e **Next.js**, cobrindo desde a camada de dados e regras analíticas até APIs e interface web. O projeto também utiliza Docker para padronização do ambiente e demonstra uma arquitetura voltada a Data Analytics, Data Engineering e Business Intelligence.
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a192f?style=flat-square&logo=postgresql&logoColor=64ffda)
 ![Python](https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0a192f?style=flat-square&logo=microsoftpowerautomate&logoColor=64ffda)
-![SQL](https://img.shields.io/badge/SQL-0a192f?style=flat-square&logo=postgresql&logoColor=64ffda)
-![APIs](https://img.shields.io/badge/APIs%20REST-0a192f?style=flat-square&logoColor=64ffda)
-
----
-
-### 🏗️ [Projetos Acadêmicos — PUC Minas]
-
-> Sistemas desenvolvidos em equipe durante o curso de Engenharia de Software, com aplicação de metodologias ágeis, engenharia de requisitos, modelagem UML e desenvolvimento orientado à resolução de problemas reais.
-
-![Scrum](https://img.shields.io/badge/Scrum-0a192f?style=flat-square&logoColor=64ffda)
-![UML](https://img.shields.io/badge/UML-0a192f?style=flat-square&logoColor=64ffda)
-![Requisitos](https://img.shields.io/badge/Engenharia%20de%20Requisitos-0a192f?style=flat-square&logoColor=64ffda)
-![Software](https://img.shields.io/badge/Engenharia%20de%20Software-0a192f?style=flat-square&logoColor=64ffda)
-
----
-
-### 🐍 [Estudos em Python & Ecossistema de Dados]
-
-> Repositório de aprofundamento técnico em Python, cobrindo fundamentos da linguagem, lógica de programação, manipulação de dados, automação de tarefas e construção de aplicações com APIs.
-
-![Python](https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda)
-![Pandas](https://img.shields.io/badge/Pandas-0a192f?style=flat-square&logo=pandas&logoColor=64ffda)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a192f?style=flat-square&logo=fastapi&logoColor=64ffda)
-![Algoritmos](https://img.shields.io/badge/Algoritmos-0a192f?style=flat-square&logoColor=64ffda)
+![Next.js](https://img.shields.io/badge/Next.js-0a192f?style=flat-square&logo=nextdotjs&logoColor=64ffda)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=64ffda)
+![Docker](https://img.shields.io/badge/Docker-0a192f?style=flat-square&logo=docker&logoColor=64ffda)
+![SQL](https://img.shields.io/badge/SQL-0a192f?style=flat-square&logo=postgresql&logoColor=64ffda)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0a192f?style=flat-square&logoColor=64ffda)
+
+🔗 **[Acessar repositório](https://github.com/LuidiC/commerce-iq)**
+
+---
+
+### 🏭 [Industrial Data Platform — Microsoft Fabric & Power BI](https://github.com/LuidiC/industrial-data-platform)
+
+> Plataforma de dados industriais ponta a ponta desenvolvida para a organização fictícia **Atlas Industrial Manufacturing**, utilizando Microsoft Fabric como plataforma principal.
+>
+> O projeto implementa uma arquitetura Medallion completa, integrando fontes sintéticas em PostgreSQL, CSV, XLSX, REST/JSON e PDF às camadas Bronze, Silver e Gold, com pipelines de ingestão, notebooks PySpark, rastreabilidade, Data Quality, quarantine, processamento idempotente e modelagem analítica.
+>
+> A solução demonstra o fluxo completo **Sources → Bronze → Silver → Gold → Power BI**, incluindo Lakehouses separados, modelo estrela na camada Gold, semantic model em Direct Lake e dashboard de produção com indicadores validados no tenant do Microsoft Fabric.
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0a192f?style=flat-square&logo=microsoft&logoColor=64ffda)
+![PySpark](https://img.shields.io/badge/PySpark-0a192f?style=flat-square&logo=apachespark&logoColor=64ffda)
+![Power BI](https://img.shields.io/badge/Power%20BI-0a192f?style=flat-square&logo=powerbi&logoColor=64ffda)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a192f?style=flat-square&logo=postgresql&logoColor=64ffda)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0a192f?style=flat-square&logoColor=64ffda)
+![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-0a192f?style=flat-square&logoColor=64ffda)
+![Direct Lake](https://img.shields.io/badge/Direct%20Lake-0a192f?style=flat-square&logoColor=64ffda)
+
+🔗 **[Acessar repositório](https://github.com/LuidiC/industrial-data-platform)**
 
 ---
 
