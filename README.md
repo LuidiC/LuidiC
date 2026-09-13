@@ -11,11 +11,13 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou **Analista de Desenvolvimento de Sistemas** na **Sicoob Credipel**, atuando na estruturação e evolução da área de desenvolvimento da cooperativa. Meu foco é projetar e implementar soluções de **automação de processos**, integrações e sistemas internos que aumentam a eficiência operacional e reduzem tarefas manuais.
+Sou **Analista de Desenvolvimento de Sistemas** na **Sicoob Credipel**, com experiência anterior em **Business Intelligence** e atuação atual no desenvolvimento de sistemas, automação de processos e integrações.
 
-Tenho background em **Business Intelligence** e análise de dados, o que me permite enxergar tecnologia além do código: cada solução precisa gerar impacto real para o negócio. Atualmente curso **Engenharia de Software** na **PUC Minas** e aprofundo continuamente meu stack técnico com foco em **Python**, **automação**, **dados**, **APIs** e **arquitetura de sistemas**.
+Minha trajetória combina **engenharia de software e dados**: trabalho com Python, SQL, automações e soluções analíticas, enquanto desenvolvo projetos envolvendo APIs, aplicações web, arquitetura de dados e Microsoft Fabric.
+
+Atualmente curso **Engenharia de Software na PUC Minas** e venho aprofundando meus conhecimentos em **Data Engineering, Analytics e desenvolvimento de sistemas**, buscando construir soluções completas — da ingestão e transformação dos dados até sua disponibilização para aplicações e tomada de decisão.
 
 > *"Tecnologia bem aplicada transforma processos e potencializa resultados."*
 
@@ -27,22 +29,32 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 
 ![Python](https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=64ffda)
 ![SQL](https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=64ffda)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=64ffda)
+![Next.js](https://img.shields.io/badge/Next.js-0a192f?style=for-the-badge&logo=nextdotjs&logoColor=64ffda)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a192f?style=for-the-badge&logo=fastapi&logoColor=64ffda)
+
+### Dados & Analytics
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0a192f?style=for-the-badge&logo=microsoft&logoColor=64ffda)
+![PySpark](https://img.shields.io/badge/PySpark-0a192f?style=for-the-badge&logo=apachespark&logoColor=64ffda)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=64ffda)
+![Power BI](https://img.shields.io/badge/Power%20BI-0a192f?style=for-the-badge&logo=powerbi&logoColor=64ffda)
+![Pandas](https://img.shields.io/badge/Pandas-0a192f?style=for-the-badge&logo=pandas&logoColor=64ffda)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0a192f?style=for-the-badge&logo=delta&logoColor=64ffda)
+
+### Automação, APIs & DevOps
+
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0a192f?style=for-the-badge&logo=microsoftpowerautomate&logoColor=64ffda)
+![Docker](https://img.shields.io/badge/Docker-0a192f?style=for-the-badge&logo=docker&logoColor=64ffda)
+![REST API](https://img.shields.io/badge/REST%20APIs-0a192f?style=for-the-badge&logo=fastapi&logoColor=64ffda)
 ![Git](https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=64ffda)
 ![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)
 
-### Dados, APIs & Automação
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0a192f?style=for-the-badge&logo=fastapi&logoColor=64ffda)
-![Pandas](https://img.shields.io/badge/Pandas-0a192f?style=for-the-badge&logo=pandas&logoColor=64ffda)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0a192f?style=for-the-badge&logo=microsoftpowerautomate&logoColor=64ffda)
-![Power BI](https://img.shields.io/badge/Power%20BI-0a192f?style=for-the-badge&logo=powerbi&logoColor=64ffda)
-![Docker](https://img.shields.io/badge/Docker-0a192f?style=for-the-badge&logo=docker&logoColor=64ffda)
-
-### Ferramentas & Ambiente
+### Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0a192f?style=for-the-badge&logo=visualstudiocode&logoColor=64ffda)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0a192f?style=for-the-badge&logo=microsoft&logoColor=64ffda)
-![Excel](https://img.shields.io/badge/Excel%20Avançado-0a192f?style=for-the-badge&logo=microsoftexcel&logoColor=64ffda)
+![Excel](https://img.shields.io/badge/Excel-0a192f?style=for-the-badge&logo=microsoftexcel&logoColor=64ffda)
 
 ---
 
@@ -70,12 +82,10 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 
 | | Título | Status |
 |---|---|---|
-| 🎓 | Engenharia de Software — PUC Minas | ▶️ Em andamento · 5º Período |
+| 🎓 | Engenharia de Software — PUC Minas | ▶️ Em andamento |
 | 🏆 | Melhor Trabalho do Semestre — PUC Minas | ✅ Reconhecimento Acadêmico |
 | 📊 | Power BI Avançado | ✅ Certificado |
 | ⚙️ | Power Automate Avançado | ✅ Certificado |
-| 💻 | Lógica de Programação | ✅ Certificado |
-| 📋 | Excel Avançado | ✅ Certificado |
 | 🌐 | Inglês — Cambridge Assessment | ✅ Certificado |
 
 ---
@@ -120,8 +130,6 @@ Tenho background em **Business Intelligence** e análise de dados, o que me perm
 🔗 **[Acessar repositório](https://github.com/LuidiC/industrial-data-platform)**
 
 ---
-
-## GitHub Stats
 
 ## <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> GitHub Stats <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=LuidiC&color=64ffda&style=flat-square&label=Profile%20views"/> :
 
